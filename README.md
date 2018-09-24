@@ -10,3 +10,5 @@ Things to be added: Health Rating that will regenerate when you give it medicine
 I would like to use pictures that I draw and add a video of the finished product if you don't want to download Python.
 
 Stay tuned!
+
+![screen shot 2018-09-23 at 5 21 59 pm](https://user-images.githubusercontent.com/26418542/45934619-57be1300-bf55-11e8-9a26-f2dda114127b.png)
