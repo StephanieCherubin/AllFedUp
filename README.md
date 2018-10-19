@@ -3,7 +3,7 @@ This project is a Tkinter GUI app made in the style of a tamagochi. Originally, 
 
 Enjoy!
 
-Fork them and run them in your Python's Tkinter. Tkinter comes with Python with no additional installation needed. Over time this app wil be updated with more things that you can do with your pet cat. 
+Fork or clone and run in your Python's Tkinter. Tkinter comes with Python with no additional installation needed. Over time this app wil be updated with more things that you can do with your pet cat. 
 
 Things to be added: Health Rating that will regenerate when you give it medicine, or give it a workout; Multiple Food Options to Feed it, Getting it to sleep if it is tired, being able to play with your pet when it is bored.
 
